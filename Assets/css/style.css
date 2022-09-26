@@ -1,0 +1,117 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+:root {
+    --white: #ffffff;
+    --blue: #2a607c;
+    --black:  black;
+    --purple: purple;
+    --gray: rgb(197, 197, 197); 
+    --font: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+    padding: 5px;
+    font-family: var(--font);
+    color: var(--black);
+    display: flex;
+    justify-content: space-between;
+}
+
+
+h1 {
+    padding: 5px;
+    display: inline-block;
+    font-family: var(--font);
+    justify-content: right;
+}
+
+section {
+    padding: 40px;
+    justify-content: center;
+    text-align: center;
+}
+
+h2 {
+    font-family: var(--font);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+h4 {
+    padding: 5px;
+    font-family: var(--font);
+    font-size: 30px;
+    font-weight: bold;
+    justify-content: center;
+    text-align: center;
+}
+
+.form2 {
+    padding: 10px;
+    padding-left: 46%;
+}
+
+input[type=submit] {
+    background-color: var(--purple);
+    color: white;
+}
+
+input[type=submit]:hover {
+    border: 1px solid var(--black);
+}
+
+p {
+    padding-left: 36%;
+    padding-right: 36%;
+    padding-bottom: 1%;
+    margin: 2% 0;
+    font-size: 110%;
+    word-wrap: break-word;
+}
+
+button {
+    background-color: var(--purple);
+    color: var(--white)
+}
+
+button:hover {
+    border: 1px solid var(--black);
+}
+
+a {
+    text-decoration: none;
+}
+
+form {
+    padding-right: 22%;
+    padding-top: 2%;
+
+}
+
+
+.submit{
+    display: inline-block;
+    width : 100px;
+    text-align: center;
+    background-color: var(--purple);
+    color: var(--white);
+    border-radius: 5px;
+    cursor: pointer;
+    padding : 5px;
+    margin: 5px;
+}
+
+.submit:hover{
+    border: 1px solid var(--black);
+}
+
+
+#high{
+    background-color: var(--gray);
+
+}
