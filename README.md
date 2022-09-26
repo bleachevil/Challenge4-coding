@@ -23,7 +23,7 @@ https://bleachevil.github.io/Challenge4-coding/
 ![](https://github.com/bleachevil/Challenge4-coding/blob/main/pics/3.png?raw=true)
 
 #### Time after the incorrect question.
-!](https://github.com/bleachevil/Challenge4-coding/blob/main/pics/4.png?raw=true)
+![](https://github.com/bleachevil/Challenge4-coding/blob/main/pics/4.png?raw=true)
 
 
 ### 5. After time is up or finish all the question, the game is over. you will find the final score and able to enter the initials
